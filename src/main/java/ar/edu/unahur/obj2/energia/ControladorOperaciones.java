@@ -20,4 +20,8 @@ public class ControladorOperaciones {
         rutina.vaciar();
     }
 
+    public Rutina getRutina() {
+        return rutina;
+    }
+
 }
